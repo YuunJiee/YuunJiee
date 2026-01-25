@@ -13,5 +13,4 @@
 ---
 
 ### 🔥 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=你的leetcode帳號&theme=dark)
-- 目標：完成 LeetCode 75 + 進階題型
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YuunJiee&theme=dark)
