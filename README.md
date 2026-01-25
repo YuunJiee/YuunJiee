@@ -7,10 +7,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuunJiee&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuunJiee&show_icons=true&theme=radical)
-
----
-
-### 🔥 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YuunJiee&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuunJiee&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuunJiee&show_icons=true&theme=dark)
