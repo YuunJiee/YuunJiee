@@ -9,7 +9,7 @@
   <a href="mailto:yuunjiee313@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://yuunjiee-blog.vercel.app/" target="_blank">
+  <a href="https://yuunjiee.com" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-211F1F?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="blog" />
   </a>
 </div>
